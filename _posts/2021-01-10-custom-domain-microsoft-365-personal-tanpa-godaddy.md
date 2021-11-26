@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Custom Domain Microsoft 365 Personal Tanpa GoDaddy"
+title: "Custom Email Microsoft 365 Personal Tanpa Domain GoDaddy"
 date: 2021-01-10 21:45:36 +0700
 categories: Sysadmin
 author: Abdul
@@ -13,11 +13,11 @@ Salah satu fitur Microsoft 365 personal adalah bisa menggunakan custom domain, p
 
 ![Allowed GoDaddy domain only](assets/images/2021-01-10/godaddy-only.png)
 
-Domain saya terdaftar di Namecheap yang menurut keterangan diatas, tidak dapat dipakai. Saya terpikir untuk transfer domain ke GoDaddy agar bisa dipakai di Microsoft 365, tetapi harga transfernya lebih dari 3x lipat dari harga registrasi, meskipun sudah termasuk 2 tahun berlangganan, itu masih terlalu mahal terlebih domain saya expirenya masih lama.
+Domain saya terdaftar di Namecheap yang menurut keterangan diatas, tidak dapat dipakai. Sempat terpikir untuk transfer domain ke GoDaddy agar bisa dipakai di Microsoft 365, tetapi harga transfernya lebih dari 3x lipat dari harga registrasi, meskipun sudah termasuk 2 tahun berlangganan, itu masih terlalu mahal terlebih domain saya expirenya masih lama.
 
 <h3>Langkah Setup</h3>
 
-Jika anda administrator Office 365 Business, seharusnya sudah familiar dengan cara berikut, karena hampir sama. Berikut cara menggunakan custom domain Microsoft 365 Personal tanpa harus daftar domain di GoDaddy:
+Berikut cara menggunakan custom domain Microsoft 365 Personal tanpa harus daftar domain di GoDaddy:
 
 
 1. Login ke outlook mail web, klik 'Manage Premium' logo berlian di kanan atas.
