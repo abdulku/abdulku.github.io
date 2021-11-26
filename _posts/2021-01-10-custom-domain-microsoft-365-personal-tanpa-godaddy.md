@@ -9,7 +9,7 @@ permalink: :title
 
 Setelah beberapa pertimbangan, sekitar akhir tahun kemarin akhirnya saya memutuskan untuk berlangganan Microsoft 365 (sebelumnya Office 365) Personal.
 
-Salah satu fitur Microsoft 365 personal adalah bisa menggunakan custom domain, pada saat artikel ini ditulis hanya mendukung domain yang terdaftar di GoDaddy :
+Salah satu fitur Microsoft 365 personal adalah bisa menggunakan custom domain. Contohnya, anda punya alamat email <code>namaanda@hotmail.com</code>. Dengan menggunakan custom domain, bisa diubah menjadi <code>mail@namaanda.com</code>. Pada saat artikel ini ditulis hanya mendukung domain yang terdaftar di GoDaddy :
 
 ![Allowed GoDaddy domain only](assets/images/2021-01-10/godaddy-only.png)
 
