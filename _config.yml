@@ -30,6 +30,8 @@ twitter_username: abdulku_
 github_username:  abdulku
 cover_image: /bg.jpeg
 avatar: /avatar.jpeg
+paginate: 5
+permalink: pretty
 
 # Build settings
 #theme: minima
